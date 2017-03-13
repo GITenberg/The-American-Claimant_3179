@@ -1,10 +1,8 @@
 _repo: The-American-Claimant_3179
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 3179/3179-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3179-h/images/Bookcover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -23,6 +21,8 @@ description: "The American Claimant is an 1892 novel by American humorist and wr
   \ its kind in fictitious literature. Indeed, all the weather is contained in an\
   \ appendix, at the back of the book, which the reader is encouraged to turn to from\
   \ time to time.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3179#The-American-Claimant
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
